@@ -31,31 +31,7 @@ Zomato is a online food ordering application, we made a clone (Tomato) of it usi
 1. yarn
 2. yarn run dev
 
-## ScreenShots
 
-# Home Page:
-
-<img src="Project Images/Home.png" />
-
-
-# Add Restaurant Page:
-
-<img src="Project Images/AddRestaurant.png" />
-
-
-# Order Online Page:
-
-<img src="Project Images/OrderOnlinePage.png" />
-
-
-# User Profile Page:
-
-<img src="Project Images/UserProfilePage.png" />
-
-
-# Hotel Order Page:
-
-<img src="Project Images/HotelOrderPage.png" />
 
 
 ### Project Started Date: june, 11, 2022
